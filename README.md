@@ -96,9 +96,6 @@ This starts the frontend server at:
 http://localhost:3000
 
 
-API Endpoints
-
-
 Purpose of the Project
 
 This project was created to demonstrate how REST APIs work in practice,
