@@ -92,8 +92,7 @@ This starts the REST API at "http://localhost:4000"
 Open a new terminal window/tab and run:
 npx nodemon server.js`
 
-This starts the frontend server at:
-http://localhost:3000
+This starts the frontend server at "http://localhost:3000"
 
 
 Purpose of the Project
